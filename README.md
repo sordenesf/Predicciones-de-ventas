@@ -10,5 +10,4 @@ El proyecto en cuestión consiste en la predicción de ventas para productos ali
 
 
 
-![Ventas de productos](/TendenciaVentas.png "Ventas de productos")
 
