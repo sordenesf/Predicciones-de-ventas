@@ -8,6 +8,5 @@ El proyecto en cuestión consiste en la predicción de ventas para productos ali
 - Detección y tratamiento de valores nulos
 - Análisis exploratorio de datos
 
-
-
+![Tendencia de Ventas](/TendenciaVentas.png "Tendencia de Ventas")
 
