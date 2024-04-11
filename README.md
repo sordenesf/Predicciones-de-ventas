@@ -9,5 +9,6 @@ El proyecto en cuestión consiste en la predicción de ventas para productos ali
 - Análisis exploratorio de datos
 
 
+
 ![Ventas de productos](/TendenciaVentas.png "Ventas de productos")
 
