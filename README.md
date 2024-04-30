@@ -23,11 +23,11 @@ De este último modelo se somenten a pruebas dos versiones: una con parámetros 
 
 Los resultados de las métricas obtenidas sobre de test set son las siguientes:
 
-| Modelo                                    |    R2    |   RECM   |
-|-------------------------------------------|----------|----------|
-| Regresión Lineal                          |  0.383   |   1304   |
-| Árbol de decisión (parámetros por defecto)|  0.243   |   1444   |
-| Árbol de decisión (optimizado)            |  0.596   |   1055   |
+| Modelo                                     |    R2    |   RECM   |
+|--------------------------------------------|----------|----------|
+| Regresión Lineal                           |  0.383   |   1304   |
+| Árbol de decisión (parámetros por defecto) |  0.243   |   1444   |
+| Árbol de decisión (optimizado)             |  0.596   |   1055   |
 
 En base a los resultados de la tabla anterior, se recomienda la utilización de un Árbol de decisión con una profundidad máxima de 5 niveles para las predicciones de ventas
 de productos alimenticios.
