@@ -11,7 +11,7 @@ El proyecto en cuestión consiste en la predicción de ventas para productos ali
 ![Tendencia de Ventas](/TendenciaVentas.png "Tendencia de Ventas")
 
 
-Posterior al preprocesamiento de datos, se eligen dos modelos para evaluar el desempeño en las predicciones de ventas:
+Posterior al análisis exploratorio y al preprocesamiento de datos, se eligen dos modelos para efectuar las predicciones de ventas:
 
 - Regresión lineal
 - Árboles de decisión
@@ -29,7 +29,6 @@ Los resultados de las métricas obtenidas sobre de test set son las siguientes:
 | Árbol de decisión (parámetros por defecto) |  0.243   |   1444   |
 | Árbol de decisión (optimizado)             |  0.596   |   1055   |
 
-En base a los resultados de la tabla anterior, se recomienda la utilización de un Árbol de decisión con una profundidad máxima de 5 niveles para las predicciones de ventas
-de productos alimenticios.
+En base al desempeño obtenido con 2 métricas de evaluación (R-cuadrado y la Raíz de Error Cuadrático Medio), se recomienda la utilización de un Árbol de decisión con una profundidad máxima de 5 niveles para las predicciones de ventas de productos alimenticios.
 
 ![Árbol de decisión optimizado - 5 niveles](/DecisionTreeOptimo.png "Árbol de decisión optimizado")
