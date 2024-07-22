@@ -7,7 +7,7 @@ El proyecto en cuestión consiste en la predicción de ventas para productos ali
 - Análisis de inconsistencias en los registros
 - Detección y tratamiento de valores nulos
 - Análisis exploratorio de datos
-- Codificación de columnas categóricas
+- Codificación de columnas
 - Estandarización
 - Uso de pipelines
 
